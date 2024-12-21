@@ -1,5 +1,5 @@
 # YouTubeAutomationScript-Project
-Winter 2024 Project by Adarsh Bellamane.
+Winter 2024 YouTube Music Downloading Automation Project by Adarsh Bellamane.
 
 This script can be used to download MP4 audio/music files of your favourite artist..
 You can download video by video or even an entire playlist!
